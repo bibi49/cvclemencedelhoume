@@ -1,0 +1,75 @@
+body {
+	text-align: center;
+	background-color: rgba(243,230,250,1.0);
+
+}
+
+.presentation{
+	width: 700px;
+	margin: 5px auto;
+	padding: 15px;
+	background: rgba(226,191,245,1.0);
+	border-radius: 15px;
+	border: 2px solid rgba(135,59,212,1.0);
+	padding-top: 0;
+	padding-bottom: 0px;
+}
+.petite {
+	width: 500px;
+	height: 180px;
+	margin: 5px;
+	padding: 15px;
+	background: rgba(226,191,245,1.0);
+	border-radius: 15px;
+	border: 2px solid rgba(135,59,212,1.0);
+	padding-top: 0;
+	padding-bottom: 55px;
+
+}
+a{ 
+ text-decoration: none;
+ color: black;
+ border-radius: 5px;
+}
+a:hover{
+	background-color: rgba(168,86,245,1.0);
+
+}
+p{
+	text-decoration: none;
+	color: black;
+	border-radius : 5xp;
+}
+h2 {
+	font-family: 'Rouge Script', cursive;
+	text-align: center;
+}
+#tic {
+	display: flex;
+	background-color: rgba(243,230,250,1.0);
+	border:  0px;
+	width: auto;
+	justify-content: center;
+}
+#tac {
+	display: flex;
+	background-color: rgba(243,230,250,1.0);
+	border:  0px;
+	width: auto;
+	justify-content: center;
+}
+.carre {
+	margin:  5px;
+	width: 500px;
+	text-align: justify;
+	padding-top: 5xp;
+	padding-bottom: 5xp;
+
+}
+.carre2{
+	width: 700px;
+	margin:  5px auto;
+	justifify-content: center;
+	padding-top: 5xp;
+	padding-bottom: 5xp;
+}
